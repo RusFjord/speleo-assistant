@@ -10,6 +10,10 @@
     "name": "Fedor Endovitskiy",
     "email": "f.endovitskiy@ulteam8.ru"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RusFjord/speleo-assistent.git"
+  },
   "license": "MIT",
   "private": false,
   "dependencies": {
